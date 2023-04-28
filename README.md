@@ -20,7 +20,10 @@ This project includes two interactive and static tract-level maps showing bike s
 ### Static Map 2
 ![Public Transit](https://user-images.githubusercontent.com/132031769/235045761-92c18e9e-e8cd-4501-997b-5027cfc102e6.png)
 
-### Interactive Map  
+### Interactive Map  - Divvy Bike Stations
+<iframe src="Bike_Map.html" height="800" width="95%"></iframe>
+
+### Interactive Map  - Bus Stops in Proximity to the Divvy Bike Stations
 <iframe src="Bus_Stops.html" height="800" width="95%"></iframe>
 
 
