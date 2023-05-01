@@ -15,7 +15,7 @@ The final index layer was developed using multiple geoprocessing tools in Geopan
 This project includes two interactive and static tract-level maps showing bike stations and and accessible transit stations in proximity to these bike stations, along with Maps that project the percentage of population who do not have vehicle ownerships and are dependent on public transit. 
 
 ### Static Map 1
-![No Vehicle](https://user-images.githubusercontent.com/132031769/235051023-a07cd452-882e-408d-a096-57a57ac05e73.png)
+![No_cars](https://user-images.githubusercontent.com/132031769/235501231-8229d36a-089a-475e-b807-a173abfc3a60.png)
 
 ### Static Map 2
 ![Public Transit](https://user-images.githubusercontent.com/132031769/235051091-2bc2f08f-f846-41a7-91b1-68e218f08d21.png)
